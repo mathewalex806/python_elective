@@ -1,8 +1,4 @@
 Hello, this is a test.
-
 This file has blank lines.
-
 Python is great.
-
-
 End of file.
